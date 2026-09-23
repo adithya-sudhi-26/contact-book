@@ -1,0 +1,4 @@
+Requirements
+
+# No external dependencies required.
+# Uses Python standard library built-in modules (json, os).
